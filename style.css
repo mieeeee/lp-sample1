@@ -61,7 +61,7 @@ header li a:hover {
 .top-visual img {
     width:100%;
     max-width:1920px;
-    height:420px;
+    height:600px;
     object-fit: cover;
     margin-left:10px;
 }
